@@ -15,5 +15,5 @@ spec:
         app: angular
     spec:
       containers:
-      - image: rachanathota/angular-app:latest
+      - image: ksreddy4599/sweang:latest
         name: angular
